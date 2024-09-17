@@ -1,3 +1,8 @@
 {
-  "esversion": 6
+  "esversion": 8,
+  "globals": {
+    "require": true,
+    "module": true,
+    "process": true
+  }
 }
